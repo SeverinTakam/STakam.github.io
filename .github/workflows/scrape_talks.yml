@@ -1,4 +1,6 @@
 name: Scrape Talk Locations
+permissions:
+  contents: write
 
 on:
   push:
