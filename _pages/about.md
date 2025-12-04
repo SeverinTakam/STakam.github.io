@@ -58,7 +58,6 @@ Je suis ouvert aux opportunités de **missions de conseil, d’audit ou de pilot
 
 📩 Vous pouvez me contacter via [e-mail](mailto:sevtakam@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/severin-takam) pour échanger sur vos besoins en cybersécurité ou sur un futur projet.
 
-Heading 2
-======
+
 
 
