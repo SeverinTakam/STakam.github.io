@@ -29,7 +29,7 @@ Work experience
 ======
 
 * **Consultant Cybersécurité – SOFTEAM (Practice Cyber)**  
-  *Juillet 2024 – Février 2025*  
+  *Juillet 2024 – Août 2025*  
   - Réalisation de **diagnostics cyber complets** : audits de maturité basés sur le guide d’hygiène ANSSI, entretiens, analyse des écarts et recommandations.  
   - Conduite d’**analyses de risques EBIOS RM / ISO 27005** et élaboration de **feuilles de route SSI** (chantiers prioritaires, plans de traitement des risques).  
   - Participation à la **mise en conformité ISO 27001**, préparation à **NIS 2** et **DORA** : audits de surveillance, analyse des non-conformités, mise à jour des politiques, procédures et enregistrements.  
