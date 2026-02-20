@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenue sur mon site professionnel.    
+title: "Bienvenue sur ma site professionnel.    
 Vous trouverez ici mon profil, mes travaux, projets, publications et ma vision autour de la sécurité des systèmes d'information.
 "
 author_profile: true
