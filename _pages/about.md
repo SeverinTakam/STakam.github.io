@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenue sur ma site professionnel.    
+title: "Bienvenue sur mon site professionnel.    
 Vous trouverez ici mon profil, mes travaux, projets, publications et ma vision autour de la sécurité des systèmes d'information.
 "
 author_profile: true
@@ -13,7 +13,7 @@ Bonjour
 ======
 
 
-Je m’appelle **Severin TAKAM**, Consultant Cybersécurité GRC avec **6 ans d’expérience** dans la sécurisation et la gouvernance des systèmes d’information.J’accompagne les organisations dans le renforcement de leur sécurité et de leur résilience numérique, avec un objectif simple : **protéger leur activité tout en restant pragmatique et orienté métier**. 
+Je m’appelle **Severin TAKAM**, Consultant Cybersécurité GRC avec **10 ans d’expérience** dans la sécurisation et la gouvernance des systèmes d’information.J’accompagne les organisations dans le renforcement de leur sécurité et de leur résilience numérique, avec un objectif simple : **protéger leur activité tout en restant pragmatique et orienté métier**. 
 
 Basé en **Île-de-France** et mobile sur toute la France métropolitaine, j’interviens aussi bien auprès de structures publiques que privées, sur des missions de conseil, de diagnostic,d'analyse de risques, d'homologation,d'intégration de la sécurité dans les projets, d’audit et de mise en conformité. 
 
